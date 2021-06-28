@@ -40,6 +40,7 @@
 
 ### Books
 
+* Jeff Erickson - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * Steven Skiena – [The Algorithm Design Manual](http://www.algorist.com/)
 * Udi Manber – [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)
 * Cormen, Leiserson, Rivest, Stein – [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
@@ -51,21 +52,29 @@
 	* [Original [RU]](https://e-maxx.ru/algo/)
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 * [it-ebooks.info](http://it-ebooks.info/)
+* S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani -[Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 
 
 ### Coding practice
 
 * [LeetCode](https://leetcode.com/)
+	* LeetCode w/ Explanations [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm/tree/english)
+* [InterviewBit](https://www.interviewbit.com/)
 * [Codility](https://codility.com/)
+* [Intervue.io](https://intervue.io/) 
 * [HackerRank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
+* [Spoj](https://spoj.com/)
 * [Google Code Jam practice problems](https://code.google.com/codejam/contests.html)
 * [HackerEarth](https://www.hackerearth.com/)
+* [Top Coder](https://www.topcoder.com/)
 * [CodeChef](https://www.codechef.com/)
 * [Codewars](https://www.codewars.com/)
-* [CodeFights](https://codefights.com/)
+* [CodeSignal](https://codesignal.com)
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
+* [CoderPad](https://coderpad.io/)
+* [Exercism](https://exercism.io/)
 
 ### Guides
 
@@ -79,6 +88,9 @@
 
 * [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
+* [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+* [Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
 ## Guides
 
@@ -92,7 +104,7 @@
 * David Byttow – [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * Thomas L. Friedman – How to Get a Job at Google [[part 1](http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html)] [[part 2](http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html)]
 * Andrew Rothbart – [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
-* Mina Azib – [Resources for Preparing for the Google Interview](http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
+* Mina Azib – [Resources for Preparing for the Google Interview](https://web.archive.org/web/20170716041319/http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
 * [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 * Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 * Ammon Bartram – [How To Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
@@ -112,6 +124,9 @@
 * [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
 * [How to Ace the Software Engineering Interview ($$)](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
 * [Grokking the System Design Interview ($$)](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+* [Algorithms and Data Structures - Part 1](https://www.pluralsight.com/courses/ads-part1)
+* [Algorithms and Data Structures - Part 2](https://www.pluralsight.com/courses/ads2)
 
 ### Misc
 
@@ -139,10 +154,12 @@
 ### Mock interviews
 
 * [interviewing.io](https://interviewing.io/)
+* [mockinterview.app](https://mockinterview.app)
 * [Pramp](https://www.pramp.com/) *"Practice coding interviews for free"*
 * [Refdash](https://refdash.com/)
 * [Gainlo](http://www.gainlo.co/)
 * [Candidacy.io](https://www.candidacy.io/)
+* [Skilled](https://www.skilledinc.com/)
 
 ### Q&A
 * [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
@@ -153,16 +170,19 @@
 ### Sites
 
 * [Coding for Interviews](http://codingforinterviews.com/)
-* [InterviewBit](https://www.interviewbit.com/)
 * [Career Cup](https://www.careercup.com/)
 * [HiredInTech](https://www.hiredintech.com/)
 * [Codela](https://www.codela.net/)
 * [TestDome](https://www.testdome.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/) *"Learn to code and help nonprofits"*
+* [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
+* [Codility Lessons](https://app.codility.com/programmers/lessons/1-iterations/)
+* [Introduction to Theoretical Computer Science](https://introtcs.org/)
 
 ### Videos
 
 * [How to: Work at Google – Candidate Coaching Session for Technical Interviewing [45:45]](https://www.youtube.com/watch?v=oWbUtlUhwa8)
+
 * Gayle McDowell – [Cracking the Coding Interview [1:14:24]](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 * Gayle McDowell - [Cracking the Coding Interview (examples) [9:05]](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 * [Google Recruiters Share Technical Interview Tips [31:06]](https://www.youtube.com/watch?v=qc1owf2-220)
@@ -183,10 +203,12 @@
 
 * Shailendra Chauhan – [ASP.NET MVC Interview Questions & Answers](https://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers)
 * [Top 10 ASP.NET MVC Interview Questions](http://www.codeproject.com/Articles/653746/Top-ASP-NET-MVC-Interview-Questions)
+* [ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions/)
 
 ### C#
 
 * [aalhour/c-sharp-algorithms](https://github.com/aalhour/c-sharp-algorithms)
+* [C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 
 ### Go
 
@@ -199,26 +221,36 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Superhero.js](http://superherojs.com/)
 * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions/)
+* [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 
 ### Node
 
 * [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
+* [Node.js Interview - Guide](https://elemefe.github.io/node-interview/#/sections/en-us/?id=guide)
+* [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
 
 ### PHP
 
 * [PHP The Right Way](http://www.phptherightway.com)
+* [PHP Best Practices](https://phpbestpractices.org/)
+* [PHP Interview Questions](https://www.interviewbit.com/php-interview-questions/)
 
 ### Python
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
+* Book: [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
+* [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
+
 
 ### React
 
 * [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
 * [12 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
+* [React Interview Questions and Answers](https://www.interviewbit.com/react-interview-questions/)
 
 ## Other topics
 
@@ -248,23 +280,32 @@
 * Andrew Tanenbaum – [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742)
 * Kurose, Ross – [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204)
 * W. Richard Stevens – [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0201633469)
-* W. Richard Stevens – [UNIX Netowrk Programming](https://www.amazon.com/UNIX-Network-Programming-Richard-Stevens/dp/0139498761)
+* W. Richard Stevens – [UNIX Network Programming](https://www.amazon.com/UNIX-Network-Programming-Richard-Stevens/dp/0139498761)
 
 ### Operating systems
 
 * UCB CS162 Operating Systems [[class](https://cs162.eecs.berkeley.edu/)] [[videos](https://www.youtube.com/playlist?list=PL89180A0A94A9BCBF)]
 * [The Eudyptula Challenge](http://eudyptula-challenge.org/)
 * [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
+* [OS Interview Questions](https://www.interviewbit.com/operating-system-interview-questions/)
 
 ### System design
 
+* [ML Eng Interview Guide](http://patrickhalina.com/posts/ml-eng-interview-guide/) by Patrick Halina
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-* Raph Levien – [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 * Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
 * [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
+
+Advanced but great:
+
+- Brendan Burns - [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) [[pdf](http://www.istrsjournal.org/wp-content/uploads/2018/06/Designing_Distributed_Systems.pdf)]
+- Raph Levien – [Rope Science](http://abishov.com/xi-editor/docs/rope_science_00.html)
 
 ## Similar repos
 
